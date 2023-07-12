@@ -3,7 +3,7 @@
 https://wisewalletkitchen.netlify.app/
 
 
-[![Video](https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg), width="250"](https://www.youtube.com/watch?v=kztpI0xRNGY)
+[![Video](https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
 
 
 
