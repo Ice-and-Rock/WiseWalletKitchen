@@ -3,15 +3,11 @@
 https://wisewalletkitchen.netlify.app/
 
 
-![WiseWalletKitchen preview](https://github.com/Ice-and-Rock/WiseWalletKitchen/assets/124932222/13871ffb-bbc3-4e09-8b37-bb0af8d3e3e8)
-
-
-
 [![Video](https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
 
-<video src='https://www.youtube.com/embed/kztpI0xRNGY' width=180/>
 
-(https://img.youtube.com/vi/kztpI0xRNGY/0.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
+
+
 
 NICKS FORK...
 
