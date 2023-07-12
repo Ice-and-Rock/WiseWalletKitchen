@@ -2,12 +2,13 @@
 
 https://wisewalletkitchen.netlify.app/
 
+![Screenshot 2023-07-12 at 10 18 23](https://github.com/Ice-and-Rock/WiseWalletKitchen/assets/124932222/5554905b-98df-485d-b185-388e9c87cf09)
 
 
 
 <video src='https://www.youtube.com/embed/kztpI0xRNGY' width=180/>
 
-[![Project Preview](https://img.youtube.com/vi/kztpI0xRNGY/0.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
+[![Screenshot 2023-07-12 at 10 18 23](https://github.com/Ice-and-Rock/WiseWalletKitchen/assets/124932222/5554905b-98df-485d-b185-388e9c87cf09)](https://img.youtube.com/vi/kztpI0xRNGY/0.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
 
 
 NICKS FORK...
