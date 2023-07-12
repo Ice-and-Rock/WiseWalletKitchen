@@ -7,6 +7,9 @@ https://wisewalletkitchen.netlify.app/
 
 <video src='https://www.youtube.com/embed/kztpI0xRNGY' width=180/>
 
+[![Project Preview](https://img.youtube.com/vi/kztpI0xRNGY/0.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
+
+
 NICKS FORK...
 
 // To Do
