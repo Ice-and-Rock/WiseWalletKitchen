@@ -2,10 +2,9 @@
 
 https://wisewalletkitchen.netlify.app/
 
-
-[![Video](https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg)](https://www.youtube.com/watch?v=kztpI0xRNGY)
-
-
+<a href="https://www.youtube.com/watch?v=kztpI0xRNGY">
+  <img src="https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg" alt="Video" width="400px">
+</a>
 
 
 ---
