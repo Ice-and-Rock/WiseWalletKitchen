@@ -1,11 +1,16 @@
-# WiseWalletKitchen
+## WiseWalletKitchen
 
-https://wisewalletkitchen.netlify.app/
+A team project lasting 4 weeks with an open brief to try to help with specific social issues...
+
+The why, what and who:
 
 <a href="https://www.youtube.com/watch?v=kztpI0xRNGY">
   <img src="https://img.youtube.com/vi/kztpI0xRNGY/maxresdefault.jpg" alt="Video" width="400px">
 </a>
 
+Here's a link to our site: 
+
+https://wisewalletkitchen.netlify.app/
 
 ---
 
